@@ -33,5 +33,9 @@ $ node
 > s.hasTerminated()         # => true
 ~~~
 
+## Slower start
 
+Go get a hot drink, put on some soothing music, visualize your happy place, and
+delight in [the
+docs](https://pragdave.me/strscan-ts/classes/StringScanner.html).
 
