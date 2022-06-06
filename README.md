@@ -17,7 +17,7 @@ $ node
 ~~~
 
 ~~~ ruby
-> StringScanner = require("strscan").StringScanner
+> { StringScanner } = require("strscan-ts")
 > s = new StringScanner("This is a test")
 > s.scan(/\w+/)             # => "This"
 > s.scan(/\w+/)             # => null
