@@ -1,6 +1,6 @@
 ### MIT License
 
-Copyright © 2021 Dave Thomas
+Copyright © 2022 Dave Thomas
 
 ----
 
