@@ -1,1 +1,0 @@
-export { StringScanner } from "./strscan"

@@ -1,4 +1,4 @@
-import { StringScanner } from "../src/strscan"
+import { StringScanner } from "../src"
 
 // function expect(bool) {.toBeTruthy
 //   if (!bool) {
