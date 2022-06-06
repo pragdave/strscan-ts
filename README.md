@@ -11,10 +11,14 @@ This code is a port of Sam Stephenson's original [CoffeeScript version](http://g
 ## Quick start
 -------------------------------------------------------------------------
 
-    $ yarn add strscan-ts
-    $ node
-    > StringScanner = require("strscan").StringScanner
-    > s = new StringScanner("This is a test")
+~~~ 
+$ yarn add strscan-ts
+$ node
+~~~
+
+~~~ irb
+> StringScanner = require("strscan").StringScanner
+> s = new StringScanner("This is a test")
     > s.scan(/\w+/)             # => "This"
     > s.scan(/\w+/)             # => null
     > s.scan(/\s+/)             # => " "
@@ -27,7 +31,7 @@ This code is a port of Sam Stephenson's original [CoffeeScript version](http://g
     > s.getCapture(0)           # => "a"
     > s.getCapture(1)           # => "test"
     > s.hasTerminated()         # => true
-
+~~~
 
 
 
