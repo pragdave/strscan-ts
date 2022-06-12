@@ -37,11 +37,11 @@ $ node
 
 Go get a hot drink, put on some soothing music, visualize your happy place, and
 delight in [the
-docs](https://pragdave.me/strscan-ts/classes/StringScanner.html).
+docs](https://pragdave.github.io/strscan-ts/)
 
 ## Information
 
-This is a derivative work of [Sam Stevphenson's original](http://github.com/sstephenson/strscan-js).
+This is a derivative work of [Sam Stephenson's original](http://github.com/sstephenson/strscan-js).
 
 It is made available under the MIT license.
 
